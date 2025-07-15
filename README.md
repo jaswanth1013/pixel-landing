@@ -1,5 +1,7 @@
 # Pixel Mascot Landing Page 🚀
 
+![Pixel Mascot Preview](preview.png)
+
 A simple and responsive landing page built using **HTML** and **CSS**.
 
 ## 🔹 Features
